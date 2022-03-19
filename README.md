@@ -4,7 +4,7 @@
 ### Skills
 | Category | Entries |
 | --- | --- |
-| Languages | ![Rust](https://img.shields.io/badge/dynamic/json?&label=Rust&color=orange&prefix=Rust&suffix=learning), Rust, C++, NodeJS, Python, HTML, CSS, C# |
+| Languages | ![Rust](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/144px-Rust_programming_language_black_logo.svg.png?20210506170622), Rust, C++, NodeJS, Python, HTML, CSS, C# |
 | Libraries / API | Spigot / Paper / Bukkit, ExpressJS, Heroku |
 | Tools | Git, MongoDB, Linux |
 
