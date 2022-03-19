@@ -1,5 +1,5 @@
-### Hi there 👋
-# My name is Korbin Wyssen, i am a software developer currently in high school
+# Hi there 👋
+### My name is Korbin Wyssen, i am a software developer currently in high school
 
 ### Skills
 | Category | Entries |
@@ -8,9 +8,9 @@
 | Libraries / API | Spigot / Paper / Bukkit, ExpressJS, Heroku |
 | Tools | Git, MongoDB, Linux |
 
-### Current Interests
-## Currently learning Rust as a primary language
-## Linux tools development
+## Current Interests
+### Currently learning Rust as a primary language
+### Linux tools development
 
 
 <!--
