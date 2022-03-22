@@ -4,9 +4,10 @@
 ### Skills
 | Category | Entries |
 | --- | --- |
-| Languages | ![Rust](https://img.shields.io/badge/-Rust-orange), ![C++](https://img.shields.io/badge/-C++-blue), ![NodeJS](https://img.shields.io/badge/-NodeJS-brightgreen), ![Python](https://img.shields.io/badge/-Python-blue), ![HTML](https://img.shields.io/badge/-HTML-orange), ![CSS](https://img.shields.io/badge/-CSS-yellow) |
-| Libraries / API | Spigot / Paper / Bukkit, ExpressJS, Heroku |
-| Tools | Git, MongoDB, Linux |
+| Languages | ![Java](https://img.shields.io/badge/-Java-Orange) ![Rust](https://img.shields.io/badge/-Rust-orange) ![C++](https://img.shields.io/badge/-C++-blue) ![NodeJS](https://img.shields.io/badge/-NodeJS-brightgreen) ![Python](https://img.shields.io/badge/-Python-blue) ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-yellow) |
+| Libraries / API's | Spigot / Paper / Bukkit, ExpressJS, Heroku |
+| Tools | Git, MongoDB, Oracle VM Virtualbox, OpenSSH |
+| OS | Pop!_OS, Ubuntu, Windows |
 
 ## Current Interests
 - 🌱 I’m currently learning Rust
